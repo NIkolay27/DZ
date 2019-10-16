@@ -115,5 +115,3 @@ tel.details.model = 'model';
 tel.details.color = 'color';
 console.log(tel);
 
-
-Hwl;lo\\\\
